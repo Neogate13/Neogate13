@@ -28,23 +28,3 @@
 <img src="./sr71-blackbird.png" alt="SR-71 Blackbird" height="20" /> <strong>Flight Simulation</strong>
 
 <br>
-
-<h3>🚀 What I’m exploring</h3>
-
-- Python and code-assisted development
-- Claude Code, Codex, Antigravity and AI-assisted coding workflows
-- AI agents and automation workflows
-- n8n, APIs and no-code / low-code systems
-- productivity and personal knowledge management
-- sales, lead generation and business-oriented tools
-- hardware, PC building and system optimization
-- flight simulation and technical environments such as DCS World
-- the bridge between business thinking and technical execution
-
-<br>
-
-<h3>🌱 Personal interests</h3>
-
-- Freediving and breathwork
-- Meditation, yoga and philosophy
-- Learning systems, self-mastery and continuous improvement
