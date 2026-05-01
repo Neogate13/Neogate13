@@ -1,10 +1,10 @@
-<h2 align="left">Hi, I’m El-Hadi 👋</h2>
+<h3 align="left">Hi, I’m El-Hadi 👋</h3>
 
 🎓 Student exploring code, AI and automation  
 💼 Background in IT sales & business development  
 🧠 Curious about Python, AI agents, workflows and digital systems  
 🖥️ Passionate about hardware, PC building and tech optimization  
-✈️ Simulation enthusiast, especially DCS World  
+<img src="./sr71-blackbird.png" alt="SR-71 Blackbird" height="18" /> Passionate about flight simulation, especially DCS World  
 🌊 Freediving enthusiast  
 🧘 Interested in meditation, yoga, philosophy and self-mastery  
 🚀 Learning by building, testing and iterating  
@@ -25,7 +25,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Hardware](https://img.shields.io/badge/Hardware-2D3748?style=flat-square&logo=pcgamingwiki&logoColor=white)
-![DCS World](https://img.shields.io/badge/DCS_World-1E3A5F?style=flat-square&logo=airplayvideo&logoColor=white)
+<img src="./sr71-blackbird.png" alt="SR-71 Blackbird" height="20" /> <strong>Flight Simulation</strong>
 
 <br>
 
