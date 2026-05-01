@@ -1,4 +1,6 @@
-<h3>🧭 About</h3>
+<p align="center">
+  <img src="./assets/github-header.png" alt="Neogate GitHub Header" width="100%" />
+</p>
 
 🎓 Student exploring code, AI and automation  
 💼 Background in IT sales & business development  
