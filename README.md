@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-header.png" alt="Neogate GitHub Header" width="100%" />
+  <img src="./assets/github-header2.png" alt="Neogate GitHub Header" width="100%" />
 </p>
 
 <p align="center">
